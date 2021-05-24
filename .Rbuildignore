@@ -3,3 +3,4 @@
 ^foofactors\.Rproj$
 notebook*
 
+^LICENSE\.md$
